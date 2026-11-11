@@ -291,6 +291,8 @@ The available packagers depend on the platform:
 
 ## ⚙️ Install
 
+**macOS:** `./install-macos.sh` sets up everything (Homebrew, Python 3.13, CMake, venv, launcher). German step-by-step guide: [INSTALL_MACOS.md](INSTALL_MACOS.md).
+
 From the repository root:
 
 ```bash
